@@ -5,25 +5,32 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Software Development, (Remote Intern)",
+    cardImage: "assets/images/experience-page/dawurobo.png",
+    place: "Dawurobo",
+    time: "(May, 2021 - Dec, 2021)",
+    desp: "<li>Built Paystack API integration for Dawurobo X mobile app (Android & iOS) payment gateway.</li> <li>Developed a custom map using Kepler API to display lodgings near universities, documenting detailed information for each discovery.</li> <li>Contributed to the implementation of SMS API for Dawurobo's Mobile Application.</li>",
   },
   {
     title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    cardImage: "assets/images/experience-page/faith-luxury-kitchen-logo.png",
+    place: "Freelancer",
+    time: "(June - Nov, 2021)",
+    desp: "<li>Built a responsive E-commerce website to showcase all kitchenware products.</li><li>Utilized Paystack API to securely handle payments.</li><li>Designed an admin page to monitor activities, purchases and traffic.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Contract",
+    cardImage: "assets/images/experience-page/phonto_1.jpg",
+    place: "Addo Grand Construction, Kasoa",
+    time: "In progress",
+    desp: "<li>Build a Responsive company website for a construction firm</li><li>Implement the functionality to showcase their projects they've embarked on.</li><li>Display Building tools and materials available for rent</li><li>Include a functionality to gain realtime prices of all building materials e.g, Cement,...</li>",
+  },
+  {
+    title: "National Service",
+    cardImage: "assets/images/experience-page/GACL.png",
+    place: "GACL",
+    time: "In progress",
+    desp: "<li>Build a web app to support AVSEC personnel in their daily operations at the airport</li><li>Enable officers to report incidents or security breaches they encounter.</li><li>Enable officers to create checklists for inspections at specified duty points and dates.</li><li>Provide export options to download inspection data for further analysis.</li><li>Provide analytical insights based on inspection data to identify trends and areas for improvement.</li>",
   },
 ];
 
