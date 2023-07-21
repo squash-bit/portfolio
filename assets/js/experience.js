@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/dawurobo.png",
     place: "Dawurobo",
     time: "(May, 2021 - Dec, 2021)",
-    desp: "<li>Built Paystack API integration for Dawurobo X mobile app (Android & iOS) payment gateway.</li> <li>Developed a custom map using Kepler API to display lodgings near universities, documenting detailed information for each discovery.</li> <li>Contributed to the implementation of SMS API for Dawurobo's Mobile Application.</li>",
+    desp: "<li>Built a payment gateway for Dawurobo X mobile app using the Paystack API.</li> <li>Developed a custom map using Kepler API to display lodgings near universities, documenting detailed information for each discovery.</li> <li>Contributed to the implementation of SMS API for Dawurobo's Mobile Application.</li>",
   },
   {
     title: "Student Developer",
@@ -30,7 +30,7 @@ const exp = [
     cardImage: "assets/images/experience-page/GACL.png",
     place: "GACL",
     time: "In progress",
-    desp: "<li>Build a web app to support AVSEC personnel in their daily operations at the airport</li><li>Enable officers to report incidents or security breaches they encounter.</li><li>Enable officers to create checklists for inspections at specified duty points and dates.</li><li>Provide export options to download inspection data for further analysis.</li><li>Provide analytical insights based on inspection data to identify trends and areas for improvement.</li>",
+    desp: "<li>Built a web application that aims to enhance efficiency and effectiveness in AVSEC operations by facilitating incident reporting, streamlined checklist creation, data analysis, and generating valuable insights to strengthen security measures at the airport.</li><li>Provide technical assistance and support to end-users or clients who encounter issues with their computer systems, software, hardware, or other technology-related problems.</li>",
   },
 ];
 
