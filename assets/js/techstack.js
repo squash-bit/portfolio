@@ -5,54 +5,39 @@ AOS.init();
 const techStackCards = document.querySelector(".techstack-box");
 const techStack = [
   {
-    langImage: "assets/images/techstack-page/html.png",
-    langName: "HyperText Markup Language",
-    langDesc: "<li>The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser</li>",
+    langImage: "assets/images/techstack-page/web_dev.png",
+    langName: "Web Development",
+    langDesc: "Proficient in building websites with expertise in HTML, CSS, and JavaScript. Capable of creating responsive and visually appealing user interfaces that captivate and engage visitors.",
   },
   {
-    langImage: "assets/images/techstack-page/css.png",
-    langName: "Cascading Style Sheets",
-    langDesc: "<li>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML</li>",
+    langImage: "assets/images/techstack-page/mobile-app.png",
+    langName: "Application Development",
+    langDesc: "Skilled in developing dynamic applications using various programming languages, including Python and other relevant technologies. Able to simplify complex processes and deliver functional solutions.",
   },
   {
-    langImage: "assets/images/techstack-page/javascript.png",
-    langName: "JavaScript",
-    langDesc: "<li>JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</li>",
+    langImage: "assets/images/techstack-page/chatbot.png",
+    langName: "Chatbot Development",
+    langDesc: "Experienced in crafting interactive chatbots that engage users in meaningful conversations. Knowledgeable in implementing AI-powered features to enhance user experience.",
   },
   {
-    langImage: "assets/images/techstack-page/node.png",
-    langName: "Node",
-    langDesc: "<li>Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser</li>",
+    langImage: "assets/images/techstack-page/programming-languages.png",
+    langName: "Programmer",
+    langDesc: "Proficient in multiple programming languages, including HTML, CSS, JavaScript, Python, and Java enabling me to adapt and excel in diverse development tasks.",
   },
   {
-    langImage: "assets/images/techstack-page/python.png",
-    langName: "Python",
-    langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
+    langImage: "assets/images/techstack-page/collaboration.png",
+    langName: "Collaboration",
+    langDesc: "A team player with excellent communication skills, ready to collaborate with clients and teams to bring their ideas to life and achieve collective goals.",
   },
   {
-    langImage: "assets/images/techstack-page/cpp.png",
-    langName: "C++",
-    langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
+    langImage: "assets/images/techstack-page/adaptability.png",
+    langName: "Adaptability",
+    langDesc: "Versatile and adaptable, ready to take on new challenges and learn new technologies as the industry evolves.",
   },
   {
-    langImage: "assets/images/techstack-page/git.png",
-    langName: "Git",
-    langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/bootstrap.png",
-    langName: "Bootstrap",
-    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
-  },
-  {
-    langImage: "assets/images/techstack-page/react.png",
-    langName: "React",
-    langDesc: "<li>React is a free and open-source front-end JavaScript library for building user interfaces based on UI components</li>",
-  },
-  {
-    langImage:"assets/images/techstack-page/c.png",
-    langName:"C",
-    langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
+    langImage: "assets/images/techstack-page/life-long-learning.png",
+    langName: "Life Long Learner",
+    langDesc: "Committed to staying up-to-date with the latest technologies and trends in the programming world through completion of MOOCs (Massive Open Online Courses) and continuous self-improvement.",
   },
 ];
 

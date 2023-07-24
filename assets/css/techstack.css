@@ -62,8 +62,8 @@ html[light-mode="light"] .tech_card{
     box-shadow: 0px 0px 10px #303030;
 }
 .tech_card img{
-    width: 120px;
-    height: 120px;
+    width: 240px;
+    height: auto;
     /* border: 1px solid black; */
     /* box-shadow: 8px 8px 7px black; */
     border-radius: 8px;
