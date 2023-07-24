@@ -26,12 +26,12 @@ const techStack = [
   },
   {
     langImage: "assets/images/techstack-page/collaboration.png",
-    langName: "Collaboration",
+    langName: "Collaborator",
     langDesc: "A team player with excellent communication skills, ready to collaborate with clients and teams to bring their ideas to life and achieve collective goals.",
   },
   {
     langImage: "assets/images/techstack-page/adaptability.png",
-    langName: "Adaptability",
+    langName: "Adaptable",
     langDesc: "Versatile and adaptable, ready to take on new challenges and learn new technologies as the industry evolves.",
   },
   {
